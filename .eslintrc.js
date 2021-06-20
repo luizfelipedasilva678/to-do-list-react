@@ -25,6 +25,7 @@ module.exports = {
     'no-param-reassign': 'off',
     'react/jsx-filename-extension': 'off',
     'react/state-in-constructor': 'off',
+    'import/no-duplicates': 'off',
 
   },
 };
